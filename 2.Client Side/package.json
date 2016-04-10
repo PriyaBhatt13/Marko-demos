@@ -1,0 +1,17 @@
+{
+  "name": "marko-client-side-render",
+  "version": "1.0.0",
+  "description": "marko client side render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priya Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "marko": "^3.0.2",
+    "lasso" : "^2.1.4 ",
+    "lasso-marko" : "^2.0.7"
+  }
+}
